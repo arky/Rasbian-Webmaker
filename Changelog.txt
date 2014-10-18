@@ -1,0 +1,9 @@
+* Resize root partition to > 4GB
+* Change keyboard default to en-US 
+* Hostname changed to WebMaker 
+* mDNS configuration 
+* Aditional Wifi configuration tools installed 
+* Banner to show system information: Hostname, IPAddress 
+* Install node.js service (system, NVM) 
+* Log to to tty8
+
