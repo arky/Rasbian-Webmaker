@@ -3,8 +3,9 @@
 * Change default locale to en_US.UTF8 
 * Change default keyboard to en_US 
 * Hostname changed to WebMaker 
-* mDNS configuration 
-* Aditional Wifi configuration tools installed  
+* mDNS configuration exposes 'webmaker.local'
+* Aditional Wifi configuration Wicd curses tools installed  
+
 * Install Node.js Version Manager (NVM) 
 * Log to to tty8
-
+* Node-Service and Node-Init scripts https://github.com/nicokaiser/node-init
