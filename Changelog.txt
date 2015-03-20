@@ -1,5 +1,5 @@
 * Resized root partition to > 4GB
-* Packages Installed: ntpd, nodejs, wicd-curses
+* Packages Installed: ntpd, nodejs, wicd-curses, hostapd, udhcpd
 * Change default locale to en_US.UTF8 
 * Change default keyboard to en_US 
 * Hostname changed to WebMaker 
