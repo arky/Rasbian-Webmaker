@@ -1,7 +1,7 @@
 Beta Release
 ============
 * Removed Node.js Version Manager (NVM)
-
+* Upgrade all base Raspbian packages
 
 
 
