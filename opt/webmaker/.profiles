@@ -1,0 +1,26 @@
+{
+  "profiles": [
+    {
+      "Core components": {
+        "Login": false,
+        "MakeAPI": false,
+        "Make Valet": false,
+        "Webmaker.org": false
+      },
+      "Tools": {
+        "Appmaker": false,
+        "Goggles": false,
+        "Thimble": true,
+        "Popcorn": false,
+        "Mobile Webmaker": false
+      },
+      "Additional components": {
+        "togetherjs": false
+      },
+      "Dependencies": {
+        "Elasticsearch": false,
+        "Mongo": false
+      }
+    }
+  ]
+}
