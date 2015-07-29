@@ -1,3 +1,13 @@
+Beta Release
+============
+* Removed Node.js Version Manager (NVM)
+
+
+
+
+
+Alpha Release
+================
 * Resized root partition to > 4GB
 * Packages Installed: ntpd, nodejs, wicd-curses, hostapd, udhcpd
 * Change default locale to en_US.UTF8 
