@@ -1,2 +1,2 @@
 * Thanks to Jawahar Patani (Rural Internet Kiosks) for donating Raspberry Pi.
-* Kudos to Mark Surman and Mozilla Festival (MozFest) East Africa 2014 team for encourging me to work on  this project. 
+* Kudos to Mark Surman and Mozilla Festival (MozFest) East Africa 2014 team for encourging me to work on this project. 

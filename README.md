@@ -8,5 +8,5 @@ The goal was to finish the project by [MozFest East Africa](http://mozfestea.org
 
 If you are interested to help with the testing and then I highly recommend downloading the testing image [here](https://mega.nz/#!I9dyHLyI!495mj_7GmdLb3dH9XgzGq_MBTFSi2iFpWyNovZxpZT4)
 
-Read more about the projecton my [blog](http://playingwithsid.blogspot.com/2015/07/mozilla-webmaker-tools-on-raspberry-pi.html)
+Read more about the project on my [blog](http://playingwithsid.blogspot.com/2015/07/mozilla-webmaker-tools-on-raspberry-pi.html)
 
